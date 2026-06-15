@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "https://simpeg-asn-338102220104.asia-southeast1.run.app/:path*"
+    }
+  ]
+}
