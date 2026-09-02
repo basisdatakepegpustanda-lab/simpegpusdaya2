@@ -10,11 +10,5 @@
         { "key": "Access-Control-Allow-Headers", "value": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version" }
       ]
     }
-  ],
-  "__rewrites_nonaktif": [
-    {
-      "source": "/(.*)",
-      "destination": "https://simpeg-asn-338102220104.asia-southeast1.run.app/$1"
-    }
   ]
 }
