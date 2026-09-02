@@ -14,7 +14,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      // "destination": "https://simpeg-asn-338102220104.asia-southeast1.run.app/$1"
+      "_destination_nonaktif": "https://simpeg-asn-338102220104.asia-southeast1.run.app/$1"
     }
   ]
 }
